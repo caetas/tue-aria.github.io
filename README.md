@@ -5,6 +5,6 @@
 
   # TUE-ARIA's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[tue-aria.github.io](https://tue-aria.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
