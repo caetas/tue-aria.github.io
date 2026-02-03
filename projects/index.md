@@ -10,11 +10,9 @@ nav:
 Explore our open-source projects, research code repositories, and datasets. We actively maintain several repositories on our GitHub organization including course materials, challenge baselines, and research implementations.
 
 Notable projects include:
-- **NNCV** - Neural Networks for Computer Vision course materials
-- **SurgeNet** - Self-supervised learning for surgical foundation models
-- **RARE25** - Challenge submissions and baselines for reliable AI in endoscopy
-- **DisCoPatch** - ICCV 2025 implementation for medical image analysis
-- **YOLOv5-6D-Pose** - 6-DoF pose estimation for X-ray applications
+- **XECS TASTI** - Application-Tailored Synthetic Image Generation
+- **KWF DETAIL** - TBD
+
 
 {% include tags.html tags="publication, resource, website" %}
 

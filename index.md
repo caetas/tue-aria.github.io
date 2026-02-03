@@ -21,11 +21,11 @@ Welcome to the **ARIA (Architectures for Reliable Image Analysis)** research gro
 
 {% include section.html %}
 
-## Research Profile
+## Lab Profile
 
 {% capture text %}
 
-The Architectures for Reliable Image Analysis (ARIA) research group is part of the Signal Processing Systems group of Eindhoven University of Technology. Our research spans areas of image/video analysis, segmentation, generative modeling
+The Architectures for Reliable Image Analysis (ARIA) research group is part of the Signal Processing Systems group of Eindhoven University of Technology. Our research spans areas of image/video analysis, segmentation, generative modelling
 
 
 {%
@@ -41,7 +41,7 @@ The Architectures for Reliable Image Analysis (ARIA) research group is part of t
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ct.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -70,7 +70,7 @@ Our research focuses on all kinds of applications, with a strong focus on the me
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/spike.jpg"
   link="projects"
   title="Our Projects"
   flip=true

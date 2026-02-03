@@ -1,15 +1,15 @@
 #! /bin/bash
 
 # name of image
-IMAGE=lab-website-renderer:latest
+IMAGE=tueariagithub:latest
 
 # name of running container
-CONTAINER=lab-website-renderer
+CONTAINER=tueariagithub
 
 # choose platform flag
 PLATFORM=""
 
-# default vars
+# default var
 DOCKER_RUN="docker run"
 WORKING_DIR=$(pwd)
 
