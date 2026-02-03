@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Get in touch with the ARIA research group at TU Eindhoven. We welcome collaboration inquiries, prospective PhD candidates, and Masters students interested in graduation projects or internships.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="aam.secreesps@tue.nl"
+  link="aam.secreesps@tue.nl"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+31 (40) 247 4812"
+  link="+31402474812"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our location on Google Maps"
+  link="https://www.google.com/maps/place/Flux+building,+De+Groene+Loper+19,+5612+AP+Eindhoven"
 %}
 
 {% include section.html %}
@@ -52,26 +50,34 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Visiting Address**
+Room 5.089
+Flux Building  
+De Groene Loper 19  
+5612 AP Eindhoven  
+Netherlands
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Postal Address**
+
+Department of Electrical Engineering  
+PO Box 513  
+5600 MB Eindhoven  
+Netherlands
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Secretariat**
+
+Email: aam.secreesps@tue.nl  
+Phone: +31 (40) 247 4812
+
+**Collaboration Inquiries**
+
+Prof. Fons van der Sommen  
+Email: fvdsommen@tue.nl
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

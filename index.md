@@ -1,30 +1,33 @@
 ---
 ---
 
-# Lab Website Template
+# Architectures for Reliable Image Analysis
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Welcome to the **ARIA (Architectures for Reliable Image Analysis)** research group at TU Eindhoven. We focus on building trustworthy intelligent architectures that deliver reliable and robust solutions, with a strong emphasis on medical imaging applications.
 
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+  link="research"
+  text="Explore Our Research"
+  icon="fa-solid fa-microscope"
+  flip=true
 %}
 {%
   include button.html
   type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
+  text="Visit GitHub"
+  link="TUE-ARIA"
 %}
 
 {% include section.html %}
 
-## Highlights
+## Research Profile
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Architectures for Reliable Image Analysis (ARIA) research group is part of the Signal Processing Systems group of Eindhoven University of Technology. Our research spans areas of video analysis, image/video segmentation, object-oriented and 3D video compression that underpin systems-oriented research on video coding and architectures.
+
+We pursue state-of-the-art video functionality at high cost-efficiency (e.g. for real-time aspects and/or mobile applications), through a combination of novel algorithms and architectures.
 
 {%
   include button.html
@@ -47,7 +50,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on all kinds of applications, with a strong focus on the medical domain where reliability and trustworthiness are paramount. Key areas include:
+
+- Reliable image analysis systems
+- Trustworthy AI architectures  
+- Medical imaging applications
+- Robust deep learning solutions
+- Generative modelling
 
 {%
   include button.html
@@ -72,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our team of researchers working on innovative AI and image analysis solutions. We are always looking for strong PhD candidates, Masters students for Graduation Projects, and internship opportunities.
 
 {%
   include button.html

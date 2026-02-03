@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team consists of dedicated researchers working on innovative solutions for reliable and trustworthy AI systems. We welcome collaboration and are always looking for strong PhD candidates, Masters students for Graduation Projects, and internship opportunities.
+
+For collaboration inquiries, please reach out to Professor Fons van der Sommen at fvdsommen@tue.nl.
 
 {% include section.html %}
 
