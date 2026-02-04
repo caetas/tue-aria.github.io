@@ -263,3 +263,828 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1053/j.gastro.2025.07.030
+  title: 'GastroNet-5M: A Multicenter Dataset for Developing Foundation Models in
+    Gastrointestinal Endoscopy'
+  authors:
+  - Martijn R. Jong
+  - Tim G.W. Boers
+  - Kiki N. Fockens
+  - Jelmer B. Jukema
+  - Carolus H.J. Kusters
+  - Tim J.M. Jaspers
+  - Rixta A.H. van Eijck van Heslinga
+  - Floor C. Slooter
+  - Maarten R. Struyvenberg
+  - Raf Bisschops
+  - Joost A. van der Putten
+  - Peter H.N. de With
+  - Fons van der Sommen
+  - Albert J. de Groof
+  - Jacques J.G.H.M. Bergman
+  - Alaa Alkhalaf
+  - Lorenza Alvarez Herrero
+  - Bas L. Weusten
+  - Francisco Baldaque-Silva
+  - Peter Elbe
+  - Maximilien Barret
+  - Jacques J. Bergman
+  - Evelien Dekker
+  - Lucas C. Duits
+  - Rixta A.H. van Eijck van Heslinga
+  - Kiki N. Fockens
+  - Albert J. de Groof
+  - Martijn R. Jong
+  - Jelmer B. Jukema
+  - Roos E. Pouw
+  - Floor C. Slooter
+  - Torsten Beyna
+  - "Evangelisches Krankenhaus D\xFCsseldorf"
+  - Marloes Bigirwamungu
+  - Jeroen Kolkman
+  - Raf Bisschops
+  - Tim G.W. Boers
+  - Tim J.M. Jaspers
+  - Carolus H.J. Kusters
+  - Joost A. van der Putten
+  - Fons van der Sommen
+  - Peter H.N. de With
+  - Wouter Curvers
+  - Erik Schoon
+  - Martin H. Houben
+  - Haga Ziekenhuis
+  - Johan Kuijvenhoven
+  - Spaarne Gasthuis
+  - Rosalie C. Mallant-Hent
+  - Guiomar Moral Villarejo
+  - "Jacobo Ortiz Fern\xE1ndez-Sordo"
+  - Wouter Nagengast
+  - Jessie Westerhof
+  - Oliver Pech
+  - Krish Ragunath
+  - Pieter Scholten
+  - Stefan Seewald
+  - Bas L. Weusten
+  publisher: Gastroenterology
+  date: '2026-01-01'
+  link: https://doi.org/hbnmvt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.media.2025.103873
+  title: Scaling up self-supervised learning for improved surgical foundation models
+  authors:
+  - Tim J.M. Jaspers
+  - Ronald L.P.D. de Jong
+  - Yiping Li
+  - Carolus H.J. Kusters
+  - Franciscus H.A. Bakker
+  - Romy C. van Jaarsveld
+  - Gino M. Kuiper
+  - Richard van Hillegersberg
+  - Jelle P. Ruurda
+  - Willem M. Brinkman
+  - Josien P.W. Pluim
+  - Peter H.N. de With
+  - Marcel Breeuwer
+  - Yasmina Al Khalil
+  - Fons van der Sommen
+  publisher: Medical Image Analysis
+  date: '2026-02-01'
+  link: https://doi.org/hbnmvv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/a-2537-3510
+  title: "The development and ex vivo evaluation of a computer-aided quality control\
+    \ system for Barrett\u2019s esophagus endoscopy"
+  authors:
+  - Martijn R. Jong
+  - Tim J. M. Jaspers
+  - Rixta A. H. van Eijck van Heslinga
+  - Jelmer B. Jukema
+  - Carolus H. J. Kusters
+  - Tim G. W. Boers
+  - Roos E. Pouw
+  - Lucas C. Duits
+  - Peter H. N. de With
+  - Fons van der Sommen
+  - Albert Jeroen de Groof
+  - Jacques J. G. H. M. Bergman
+  publisher: Endoscopy
+  date: '2025-02-11'
+  link: https://doi.org/hbnmvx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/a-2403-3103
+  title: 'Improving the endoscopic recognition of early colorectal carcinoma using
+    artificial intelligence: current evidence and future directions'
+  authors:
+  - Ayla Thijssen
+  - Ramon-Michel Schreuder
+  - Nikoo Dehghani
+  - Marieke Schor
+  - Peter H.N. de With
+  - Fons van der Sommen
+  - Jurjen J. Boonstra
+  - Leon M.G. Moons
+  - Erik J. Schoon
+  publisher: Endoscopy International Open
+  date: '2024-08-26'
+  link: https://doi.org/hbnmvz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1053/j.gastro.2019.11.030
+  title: "Deep-Learning System Detects Neoplasia in Patients With Barrett\u2019s Esophagus\
+    \ With Higher Accuracy Than Endoscopists in a Multistep Training and Validation\
+    \ Study With Benchmarking"
+  authors:
+  - Albert J. de Groof
+  - Maarten R. Struyvenberg
+  - Joost van der Putten
+  - Fons van der Sommen
+  - Kiki N. Fockens
+  - Wouter L. Curvers
+  - Sveta Zinger
+  - Roos E. Pouw
+  - Emmanuel Coron
+  - Francisco Baldaque-Silva
+  - Oliver Pech
+  - Bas Weusten
+  - Alexander Meining
+  - Horst Neuhaus
+  - Raf Bisschops
+  - John Dent
+  - Erik J. Schoon
+  - Peter H. de With
+  - Jacques J. Bergman
+  publisher: Gastroenterology
+  date: '2020-03-01'
+  link: https://doi.org/gjhw2p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1053/j.gastro.2018.01.070
+  title: Novel Developments in Endoscopic Mucosal Imaging
+  authors:
+  - Fons van der Sommen
+  - Wouter L. Curvers
+  - Wouter B. Nagengast
+  publisher: Gastroenterology
+  date: '2018-05-01'
+  link: https://doi.org/gdk5hq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.gie.2024.04.011
+  title: "The use of a real-time computer-aided detection system for visible lesions\
+    \ in the Barrett\u2019s esophagus during live endoscopic procedures: a pilot study\
+    \ (with video)"
+  authors:
+  - Kiki N. Fockens
+  - Jelmer B. Jukema
+  - Martijn R. Jong
+  - Tim Boers
+  - Joost A. van der Putten
+  - Carolus H.J. Kusters
+  - Roos E. Pouw
+  - Lucas C. Duits
+  - Fons van der Sommen
+  - Peter H. de With
+  - A. Jeroen de Groof
+  - Jacques J. Bergman
+  - Alaa Alkhalaf
+  - Lorenza Alvarez Herrero
+  - Francisco Baldaque-Silva
+  - Maximilien Barret
+  - Jacques J. Bergman
+  - Torsten Beyna
+  - Tim G. Boers
+  - Peter Elbe
+  - Kiki N. Fockens
+  - Albert J. de Groof
+  - Martin H. Houben
+  - Martijn Jong
+  - Jelmer B. Jukema
+  - Koen C. Kusters
+  - Rosalie C. Mallant-Hent
+  - Guiomar Moral Villarejo
+  - Wouter Nagengast
+  - "Jacobo Ortiz Fern\xE1ndez-Sordo"
+  - Oliver Pech
+  - Roos E. Pouw
+  - Joost A. van der Putten
+  - Krish Ragunath
+  - Pieter Scholten
+  - Stefan Seewald
+  - Fons van der Sommen
+  - Jessie Westerhof
+  - Bas L. Weusten
+  - Peter H. de With
+  publisher: Gastrointestinal Endoscopy
+  date: '2024-09-01'
+  link: https://doi.org/hbnmv2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.gie.2024.06.029
+  title: 'Appropriate trust in artificial intelligence for the optical diagnosis of
+    colorectal polyps: the role of human/artificial intelligence interaction'
+  authors:
+  - Quirine E.W. van der Zander
+  - Rachel Roumans
+  - Carolus H.J. Kusters
+  - Nikoo Dehghani
+  - Ad A.M. Masclee
+  - Peter H.N. de With
+  - Fons van der Sommen
+  - Chris C.P. Snijders
+  - Erik J. Schoon
+  publisher: Gastrointestinal Endoscopy
+  date: '2024-12-01'
+  link: https://doi.org/hbnmv3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.gie.2019.12.048
+  title: "Deep learning algorithm detection of Barrett\u2019s neoplasia with high\
+    \ accuracy during live endoscopic procedures: a pilot study (with video)"
+  authors:
+  - Albert J. de Groof
+  - Maarten R. Struyvenberg
+  - Kiki N. Fockens
+  - Joost van der Putten
+  - Fons van der Sommen
+  - Tim G. Boers
+  - Sveta Zinger
+  - Raf Bisschops
+  - Peter H. de With
+  - Roos E. Pouw
+  - Wouter L. Curvers
+  - Erik J. Schoon
+  - Jacques J.G. H.M. Bergman
+  publisher: Gastrointestinal Endoscopy
+  date: '2020-06-01'
+  link: https://doi.org/hbnmv4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S2589-7500(23)00199-1
+  title: 'A deep learning system for detection of early Barrett''s neoplasia: a model
+    development and validation study'
+  authors:
+  - K N Fockens
+  - M R Jong
+  - J B Jukema
+  - T G W Boers
+  - C H J Kusters
+  - J A van der Putten
+  - R E Pouw
+  - L C Duits
+  - N S M Montazeri
+  - S N van Munster
+  - B L A M Weusten
+  - L Alvarez Herrero
+  - M H M G Houben
+  - W B Nagengast
+  - J Westerhof
+  - A Alkhalaf
+  - R C Mallant-Hent
+  - P Scholten
+  - K Ragunath
+  - S Seewald
+  - P Elbe
+  - F Baldaque-Silva
+  - M Barret
+  - "J Ortiz Fern\xE1ndez-Sordo"
+  - G Moral Villarejo
+  - O Pech
+  - T Beyna
+  - F van der Sommen
+  - P H de With
+  - A J de Groof
+  - J J Bergman
+  - Alaa Alkhalaf
+  - Lorenza Alvarez Herrero
+  - Francisco Baldaque-Silva
+  - Maximilien Barret
+  - Jacques J Bergman
+  - Torsten Beyna
+  - Raf Bisschops
+  - Tim G Boers
+  - Wouter Curvers
+  - Pierre H Deprez
+  - Lucas C Duits
+  - Peter Elbe
+  - Jose M Esteban
+  - Gary W Falk
+  - Kiki N Fockens
+  - Eric Ganguly
+  - Gregory G Ginsberg
+  - Albert J de Groof
+  - Rehan Haidry
+  - Martin H Houben
+  - Anthony Infantolino
+  - Prasad G Iyer
+  - Martijn R Jong
+  - Pieter-Jan De Jonge
+  - Jelmer B Jukema
+  - Arjun K Koch
+  - Srinadh Komanduri
+  - Vani Konda
+  - Carolus H J Kusters
+  - Philippe Leclercq
+  - Cadman L Leggett
+  - Arnaud Lemmers
+  - Charles J Lightdale
+  - Rosalie C Mallant-Hent
+  - Guiomar Moral Villarejo
+  - V Raman Muthusamy
+  - Wouter Nagengast
+  - "Jacobo Ortiz Fern\xE1ndez-Sordo"
+  - Oliver Pech
+  - Ian Penman
+  - Douglas K Pleskow
+  - Roos E Pouw
+  - Joost A van der Putten
+  - Krish Ragunath
+  - Pieter Scholten
+  - Stefan Seewald
+  - Amritha Sethi
+  - Michael S Smith
+  - Fons Van der Sommen
+  - Arvind Trindade
+  - Sachin Wani
+  - Irving Waxman
+  - Jessie Westerhof
+  - Bas L Weusten
+  - Peter H N de With
+  - Herbert C Wolfsen
+  publisher: The Lancet Digital Health
+  date: '2023-12-01'
+  link: https://doi.org/gtgvpq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.2549391
+  title: 'The field effect in Barrett''s Esophagus: a macroscopic view using white
+    light endoscopy and deep learning'
+  authors:
+  - Levi Verhage
+  - Joost van der Putten
+  - Fons van der Sommen
+  - Jeroen de Groof
+  - Maarten Struyvenberg
+  - Peter de With
+  publisher: 'Medical Imaging 2020: Computer-Aided Diagnosis'
+  date: '2020-03-16'
+  link: https://doi.org/hbnmv5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/app10155040
+  title: A CNN CADx System for Multimodal Classification of Colorectal Polyps Combining
+    WL, BLI, and LCI Modalities
+  authors:
+  - "Roger Fonoll\xE0"
+  - Quirine E. W. van der Zander
+  - Ramon M. Schreuder
+  - Ad A. M. Masclee
+  - Erik J. Schoon
+  - Fons van der Sommen
+  - Peter H. N. de With
+  publisher: Applied Sciences
+  date: '2020-07-22'
+  link: https://doi.org/hbnmv6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/app10124078
+  title: 'Hyperspectral Imaging for Skin Feature Detection: Advances in Markerless
+    Tracking for Spine Surgery'
+  authors:
+  - Francesca Manni
+  - Fons van der Sommen
+  - Svitlana Zinger
+  - Caifeng Shan
+  - Ronald Holthuizen
+  - Marco Lai
+  - "Gustav Bustr\xF6m"
+  - Richelle J. M. Hoveling
+  - "Erik Edstr\xF6m"
+  - Adrian Elmi-Terander
+  - Peter H. N. de With
+  publisher: Applied Sciences
+  date: '2020-06-12'
+  link: https://doi.org/gh9knf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3243394.3243702
+  title: Bladder Cancer Segmentation on Multispectral Images
+  authors:
+  - Joost van der Putten
+  - Fons van der Sommen
+  - Svitlana Zinger
+  - Daniel M. de Bruin
+  - Guido Kamphuis
+  - Peter H. N. de With
+  publisher: Proceedings of the 12th International Conference on Distributed Smart
+    Cameras
+  date: '2018-09-03'
+  link: https://doi.org/hbnmv7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/end.2023.0697
+  title: Estimating Surgical Urethral Length on Intraoperative Robot-Assisted Prostatectomy
+    Images Using Artificial Intelligence Anatomy Recognition
+  authors:
+  - Aron F.H.A. Bakker
+  - Joris V. de Nijs
+  - Tim J.M. Jaspers
+  - Peter H.N. de With
+  - Alexander J.W. Beulens
+  - Henk G. van der Poel
+  - Fons van der Sommen
+  - Willem M. Brinkman
+  publisher: Journal of Endourology
+  date: '2024-07-01'
+  link: https://doi.org/hbnmv8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-47076-9_4
+  title: Investigating the Impact of Image Quality on Endoscopic AI Model Performance
+  authors:
+  - Tim J. M. Jaspers
+  - Tim G. W. Boers
+  - Carolus H. J. Kusters
+  - Martijn R. Jong
+  - Jelmer B. Jukema
+  - Albert J. de Groof
+  - Jacques J. Bergman
+  - Peter H. N. de With
+  - Fons van der Sommen
+  publisher: Lecture Notes in Computer Science
+  date: '2023-10-26'
+  link: https://doi.org/hbnmv9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-92805-5_14
+  title: "Find the\_Assembly Mistakes: Error Segmentation for\_Industrial Applications"
+  authors:
+  - Dan Lehman
+  - Tim J. Schoonbeek
+  - Shao-Hsuan Hung
+  - Jacek Kustra
+  - Peter H. N. de With
+  - Fons van der Sommen
+  publisher: Lecture Notes in Computer Science
+  date: '2025-01-01'
+  link: https://doi.org/hbnmwb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-73376-5_1
+  title: Multi-center Ovarian Tumor Classification Using Hierarchical Transformer-Based
+    Multiple-Instance Learning
+  authors:
+  - Cris H.B. Claessens
+  - Eloy W.R. Schultz
+  - Anna Koch
+  - Ingrid Nies
+  - "Terese A.E. Hellstr\xF6m"
+  - Joost Nederend
+  - Ilse Niers-Stobbe
+  - Annemarie Bruining
+  - Jurgen M.J. Piek
+  - "Peter H.N. De\_With"
+  - Fons van der Sommen
+  publisher: Lecture Notes in Computer Science
+  date: '2024-10-09'
+  link: https://doi.org/hbnmwc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-07619-7
+  title: Why rankings of biomedical image analysis competitions should be interpreted
+    with care
+  authors:
+  - Lena Maier-Hein
+  - Matthias Eisenmann
+  - Annika Reinke
+  - Sinan Onogur
+  - Marko Stankovic
+  - Patrick Scholz
+  - Tal Arbel
+  - Hrvoje Bogunovic
+  - Andrew P. Bradley
+  - Aaron Carass
+  - Carolin Feldmann
+  - Alejandro F. Frangi
+  - Peter M. Full
+  - Bram van Ginneken
+  - Allan Hanbury
+  - Katrin Honauer
+  - Michal Kozubek
+  - Bennett A. Landman
+  - "Keno M\xE4rz"
+  - Oskar Maier
+  - Klaus Maier-Hein
+  - Bjoern H. Menze
+  - "Henning M\xFCller"
+  - Peter F. Neher
+  - Wiro Niessen
+  - Nasir Rajpoot
+  - Gregory C. Sharp
+  - Korsuk Sirinukunwattana
+  - Stefanie Speidel
+  - Christian Stock
+  - Danail Stoyanov
+  - Abdel Aziz Taha
+  - Fons van der Sommen
+  - Ching-Wei Wang
+  - "Marc-Andr\xE9 Weber"
+  - Guoyan Zheng
+  - Pierre Jannin
+  - Annette Kopp-Schneider
+  publisher: Nature Communications
+  date: '2018-12-06'
+  link: https://doi.org/ggsfbr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-08563-w
+  title: 'Author Correction: Why rankings of biomedical image analysis competitions
+    should be interpreted with care'
+  authors:
+  - Lena Maier-Hein
+  - Matthias Eisenmann
+  - Annika Reinke
+  - Sinan Onogur
+  - Marko Stankovic
+  - Patrick Scholz
+  - Tal Arbel
+  - Hrvoje Bogunovic
+  - Andrew P. Bradley
+  - Aaron Carass
+  - Carolin Feldmann
+  - Alejandro F. Frangi
+  - Peter M. Full
+  - Bram van Ginneken
+  - Allan Hanbury
+  - Katrin Honauer
+  - Michal Kozubek
+  - Bennett A. Landman
+  - "Keno M\xE4rz"
+  - Oskar Maier
+  - Klaus Maier-Hein
+  - Bjoern H. Menze
+  - "Henning M\xFCller"
+  - Peter F. Neher
+  - Wiro Niessen
+  - Nasir Rajpoot
+  - Gregory C. Sharp
+  - Korsuk Sirinukunwattana
+  - Stefanie Speidel
+  - Christian Stock
+  - Danail Stoyanov
+  - Abdel Aziz Taha
+  - Fons van der Sommen
+  - Ching-Wei Wang
+  - "Marc-Andr\xE9 Weber"
+  - Guoyan Zheng
+  - Pierre Jannin
+  - Annette Kopp-Schneider
+  publisher: Nature Communications
+  date: '2019-01-30'
+  link: https://doi.org/g8nb9x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ueg2.12363
+  title: "Towards a robust and compact deep learning system for primary detection\
+    \ of early Barrett\u2019s neoplasia: Initial image\u2010based results of training\
+    \ on a multi\u2010center retrospectively collected data set"
+  authors:
+  - Kiki N. Fockens
+  - Jelmer B. Jukema
+  - Tim Boers
+  - Martijn R. Jong
+  - Joost A. van der Putten
+  - Roos E. Pouw
+  - Bas L. A. M. Weusten
+  - Lorenza Alvarez Herrero
+  - Martin H. M. G. Houben
+  - Wouter B. Nagengast
+  - Jessie Westerhof
+  - Alaa Alkhalaf
+  - Rosalie Mallant
+  - Krish Ragunath
+  - Stefan Seewald
+  - Peter Elbe
+  - Maximilien Barret
+  - "Jacobo Ortiz Fern\xE1ndez\u2010Sordo"
+  - Oliver Pech
+  - Torsten Beyna
+  - Fons van der Sommen
+  - Peter H. de With
+  - A. Jeroen de Groof
+  - Jacques J. Bergman
+  publisher: United European Gastroenterology Journal
+  date: '2023-04-24'
+  link: https://doi.org/gsbfvz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ueg2.12560
+  title: Risks and rewards of AI democratization
+  authors:
+  - Fons van der Sommen
+  - Jeroen de Groof
+  publisher: United European Gastroenterology Journal
+  date: '2024-03-25'
+  link: https://doi.org/hbnmwd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ueg2.12760
+  title: "Challenges in Implementing Endoscopic Artificial Intelligence: The Impact\
+    \ of Real\u2010World Imaging Conditions on Barrett's Neoplasia Detection"
+  authors:
+  - M. R. Jong
+  - T. J. M. Jaspers
+  - C. H. J. Kusters
+  - J. B. Jukema
+  - R. A. H. van Eijck van Heslinga
+  - K. N. Fockens
+  - T. G. W. Boers
+  - L. S. Visser
+  - J. A. van der Putten
+  - F. van der Sommen
+  - P. H. de With
+  - A. J. de Groof
+  - J. J. Bergman
+  publisher: United European Gastroenterology Journal
+  date: '2025-03-21'
+  link: https://doi.org/hbnmwf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neucom.2014.02.066
+  title: Supportive automatic annotation of early esophageal cancer using local gabor
+    and color features
+  authors:
+  - F. van der Sommen
+  - S. Zinger
+  - E.J. Schoon
+  - P.H.N. de With
+  publisher: Neurocomputing
+  date: '2014-11-01'
+  link: https://doi.org/wqg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICIP.2018.8451771
+  title: Automatic Detection of Early Esophageal Cancer with CNNS Using Transfer Learning
+  authors:
+  - Sjors Van Riel
+  - Fons Van Der Sommen
+  - Sveta Zinger
+  - Erik J. Schoon
+  - Peter H.N. de With
+  publisher: 2018 25th IEEE International Conference on Image Processing (ICIP)
+  date: '2018-10-01'
+  link: https://doi.org/hbnmwg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/EMBC46164.2021.9629600
+  title: Conditional Generative Adversarial Networks for low-dose CT image denoising
+    aiming at preservation of critical image content
+  authors:
+  - Koen C. Kusters
+  - Luis A. Zavala-Mondragon
+  - Javier Olivan Bescos
+  - Peter Rongen
+  - Peter H.N. de With
+  - Fons van der Sommen
+  publisher: 2021 43rd Annual International Conference of the IEEE Engineering in
+    Medicine &amp; Biology Society (EMBC)
+  date: '2021-11-01'
+  link: https://doi.org/hbnmwh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMI.2022.3154011
+  title: Noise Reduction in CT Using Learned Wavelet-Frame Shrinkage Networks
+  authors:
+  - Luis A. Zavala-Mondragon
+  - Peter Rongen
+  - Javier Olivan Bescos
+  - Peter H. N. de With
+  - Fons van der Sommen
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2022-08-01'
+  link: https://doi.org/hbnmwj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2020.3020360
+  title: Efficient Decoder Reduction for a Variety of Encoder-Decoder Problems
+  authors:
+  - Joost Van Der Putten
+  - Fons Van Der Sommen
+  - Peter H. N. De with
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/hbnmwk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/WACV57701.2024.00431
+  title: 'IndustReal: A Dataset for Procedure Step Recognition Handling Execution
+    Errors in Egocentric Videos in an Industrial-Like Setting'
+  authors:
+  - Tim J. Schoonbeek
+  - Tim Houben
+  - Hans Onvlee
+  - Peter H.N. de With
+  - Fons Van der Sommen
+  publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  date: '2024-01-03'
+  link: https://doi.org/pxq6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0040-1704736
+  title: IMPROVING OPTICAL DIAGNOSIS OF COLORECTAL POLYPS USING COMPUTER-AIDED DIAGNOSIS
+    (CADX)
+  authors:
+  - QEW van der Zander
+  - RM Schreuder
+  - R Fonolla
+  - T Scheeve
+  - F van der Sommen
+  - P Aepli
+  - B Hayee
+  - A Pischel
+  - M Stefanovic
+  - S Subramaniam
+  - P Bhandari
+  - PHN de With
+  - AAM Masclee
+  - EJ Schoon
+  publisher: Endoscopy
+  date: '2020-04-01'
+  link: https://doi.org/hbnmwm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0042-1744778
+  title: 'AUTOMATIC TEXTUAL DESCRIPTION OF COLORECTAL POLYP FEATURES: EXPLAINABLE
+    ARTIFICIAL INTELLIGENCE BASED ON THE BASIC CLASSIFICATION'
+  authors:
+  - A. Thijssen
+  - R.-M. Schreuder
+  - "R. Fonoll\xE0"
+  - Q.E. van der Zander
+  - T. Scheeve
+  - S. Subramaniam
+  - P. Bhandari
+  - P.H. de With
+  - A.A. Masclee
+  - F. van der Sommen
+  - E.J. Schoon
+  publisher: Endoscopy
+  date: '2022-04-01'
+  link: https://doi.org/hbnmwn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/a-2071-6652
+  title: 'Automatic textual description of colorectal polyp features: explainable
+    artificial intelligence'
+  authors:
+  - Ayla Thijssen
+  - Ramon-Michel Schreuder
+  - "Roger Fonoll\xE0"
+  - Quirine van der Zander
+  - Thom Scheeve
+  - Bjorn Winkens
+  - Sharmila Subramaniam
+  - Pradeep Bhandari
+  - Peter de With
+  - Ad Masclee
+  - Fons van der Sommen
+  - Erik Schoon
+  publisher: Endoscopy International Open
+  date: '2023-04-11'
+  link: https://doi.org/hbnmwp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0042-1745059
+  title: "REAL-TIME CHARACTERIZATION OF COLORECTAL POLYPS USING ARTIFICIAL INTELLIGENCE\
+    \ \u2013 A PROSPECTIVE PILOT STUDY COMPARING TWO COMPUTER-AIDED DIAGNOSIS SYSTEMS\
+    \ AND ONE EXPERT ENDOSCOPIST"
+  authors:
+  - Q.E. van der Zander
+  - R.-M. Schreuder
+  - A. Thijssen
+  - K.C. Kusters
+  - N. Dehghani
+  - T. Scheeve
+  - "R. Fonoll\xE0"
+  - B. Winkens
+  - M.C. van der Ende-van Loon
+  - P.H. de With
+  - F. van der Sommen
+  - A.A. Masclee
+  - E.J. Schoon
+  publisher: Endoscopy
+  date: '2022-04-01'
+  link: https://doi.org/hbnmwq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21037/jmai.2019.11.03
+  title: Gastroenterology needs its own ImageNet
+  authors:
+  - Fons van der Sommen
+  publisher: Journal of Medical Artificial Intelligence
+  date: '2019-12-01'
+  link: https://doi.org/hbnmwr
+  plugin: sources.py
+  file: sources.yaml
