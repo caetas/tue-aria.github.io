@@ -95,7 +95,7 @@ Meet our team of researchers working on innovative AI and image analysis solutio
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group.png"
   link="team"
   title="Our Team"
   text=text
