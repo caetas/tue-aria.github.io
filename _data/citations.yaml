@@ -3463,6 +3463,14 @@
   fons-vdsommen: true
   plugin: sources.py
   file: sources.yaml
+  image: https://github.com/caetas/AdverX/blob/main/imgs/AdverXRay.png
+  buttons:
+  - type: website
+    text: Project Page
+    link: https://caetas.github.io/adverx.html
+  - type: source
+    text: Code
+    link: https://github.com/caetas/AdverX
 - id: doi:10.21037/jmai.2019.11.03
   title: Gastroenterology needs its own ImageNet
   authors:
